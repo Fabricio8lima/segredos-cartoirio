@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Segredos dos Cartórios Extrajudiciais</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #f2f2f2;
+      color: #333;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+
+    .header {
+      background: #0056b3;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    .header p {
+      font-size: 1.1em;
+      margin-top: 10px;
+      font-style: italic;
+    }
+
+    .ebook-image {
+      width: 100%;
+      height: auto;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    .author {
+      font-style: italic;
+      margin-bottom: 10px;
+      color: #666;
+    }
+
+    .description {
+      font-size: 1.1em;
+      margin-bottom: 20px;
+    }
+
+    .price {
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #d10000;
+      margin-bottom: 20px;
+    }
+
+    .cta-button {
+      display: block;
+      text-align: center;
+      background: #28a745;
+      color: white;
+      padding: 15px;
+      font-size: 1.2em;
+      text-decoration: none;
+      border-radius: 8px;
+      margin: 0 auto;
+      max-width: 300px;
+      transition: background 0.3s;
+    }
+
+    .cta-button:hover {
+      background: #218838;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #999;
+      padding: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>SEGREDOS DOS CARTÓRIOS EXTRAJUDICIAIS</h1>
+      <p>“Direitos que ninguém te conta”</p>
+    </div>
+
+    <!-- Capa do eBook -->
+    <img src="ebook.jpg" alt="Capa do eBook Segredos dos Cartórios Extrajudiciais" class="ebook-image" />
+
+    <div class="content">
+      <!-- Autor -->
+      <p class="author">Por Fabrício Lima — especialista com 24 anos de experiência em cartórios extrajudiciais</p>
+
+      <!-- Descrição -->
+      <p class="description">
+        Este eBook é um verdadeiro guia de empoderamento jurídico. Foi criado para te mostrar de forma clara, objetiva e acessível quais são os seus direitos garantidos por lei nos serviços dos cartórios extrajudiciais.  
+        <br><br>
+        Você vai descobrir gratuidades que poucos conhecem, entender como os procedimentos funcionam e aprender a agir com segurança e consciência. O objetivo é democratizar o acesso à informação e tornar a justiça mais transparente, justa e humana para todos.
+      </p>
+
+      <!-- Preço -->
+      <p class="price">Apenas R$ 16,00</p>
+
+      <!-- Botão de Compra -->
+      <a href="http://oasis-de-ofertas-1.rds.land/segredos-dos-cartorios-extrajudiciais" class="cta-button">Quero garantir meu eBook agora</a>
+    </div>
+
+    <footer>
+      &copy; 2025 - Fabrício Lima | Todos os direitos reservados
+    </footer>
+  </div>
+</body>
+</html>
